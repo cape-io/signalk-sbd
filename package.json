@@ -1,0 +1,9 @@
+{
+  "name": "signalk-sbd",
+  "version": "1.0.0",
+  "description": "SignalK Iridium SBD",
+  "main": "index.js",
+  "repository": "https://github.com/cape-io/signalk-sbd.git",
+  "author": "Kai Curry",
+  "license": "MIT"
+}
