@@ -9,6 +9,10 @@
   "keywords": [
     "signalk-node-server-plugin"
   ],
+  "scripts": {
+    "lint": "eslint src",
+    "test": "npm run lint && jest --watch"
+  },
   "dependencies": {
     "cape-lodash": "^1.13.2",
     "iridium-sbd": "cjntaylor/node-iridium-sbd",
