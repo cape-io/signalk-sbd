@@ -6,9 +6,14 @@
   "repository": "https://github.com/cape-io/signalk-sbd.git",
   "author": "Kai Curry",
   "license": "MIT",
+  "keywords": [
+    "signalk-node-server-plugin"
+  ],
   "dependencies": {
+    "cape-lodash": "^1.13.2",
     "iridium-sbd": "cjntaylor/node-iridium-sbd",
     "lodash": "^4.17.10",
+    "radians-degrees": "^1.0.0",
     "signalk-plugin-state": "^1.0.0"
   },
   "devDependencies": {
