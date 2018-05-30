@@ -3680,9 +3680,9 @@ signalk-plugin-state@^1.2.2:
     cape-lodash "^1.13.2"
     lodash "^4.17.10"
 
-signalk-sbd-msg@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/signalk-sbd-msg/-/signalk-sbd-msg-1.0.0.tgz#de23a78c09234991791e2bac3e6ae41cef3b0de0"
+signalk-sbd-msg@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/signalk-sbd-msg/-/signalk-sbd-msg-1.0.2.tgz#39eb1bca8784ce07787fc8ee693d71f7daec9e05"
   dependencies:
     cape-lodash "^1.13.2"
     lodash "^4.17.10"
