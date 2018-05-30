@@ -1806,14 +1806,6 @@ iridium-sbd@cape-io/node-iridium-sbd:
     serialport "^6.1.1"
     through2 "^2.0.3"
 
-iridium-sbd@cjntaylor/node-iridium-sbd:
-  version "0.0.11"
-  resolved "https://codeload.github.com/cjntaylor/node-iridium-sbd/tar.gz/871be47cf63b51005bc357fcc26a75c6cc0ccbf8"
-  dependencies:
-    async "*"
-    serialport "^6.1.1"
-    through2 "^2.0.3"
-
 is-accessor-descriptor@^0.1.6:
   version "0.1.6"
   resolved "https://registry.yarnpkg.com/is-accessor-descriptor/-/is-accessor-descriptor-0.1.6.tgz#a9e12cb3ae8d876727eeef3843f8a0897b5c98d6"
@@ -3685,6 +3677,13 @@ signalk-plugin-state@^1.2.2:
   resolved "https://registry.yarnpkg.com/signalk-plugin-state/-/signalk-plugin-state-1.2.2.tgz#6dc5ee71c834739ede5d10f72984e304850d2d13"
   dependencies:
     ajv "^6.5.0"
+    cape-lodash "^1.13.2"
+    lodash "^4.17.10"
+
+signalk-sbd-msg@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/signalk-sbd-msg/-/signalk-sbd-msg-1.0.0.tgz#de23a78c09234991791e2bac3e6ae41cef3b0de0"
+  dependencies:
     cape-lodash "^1.13.2"
     lodash "^4.17.10"
 

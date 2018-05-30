@@ -1,6 +1,6 @@
 {
   "name": "signalk-sbd",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "SignalK Iridium SBD",
   "main": "lib/index.js",
   "repository": "https://github.com/cape-io/signalk-sbd.git",
@@ -18,7 +18,8 @@
     "iridium-sbd": "cape-io/node-iridium-sbd",
     "lodash": "^4.17.10",
     "radians-degrees": "^1.0.0",
-    "signalk-plugin-state": "^1.2.2"
+    "signalk-plugin-state": "^1.2.2",
+    "signalk-sbd-msg": "^1.0.0"
   },
   "devDependencies": {
     "eslint": "^4.19.1",
