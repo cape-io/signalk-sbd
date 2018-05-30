@@ -15,10 +15,10 @@
   },
   "dependencies": {
     "cape-lodash": "^1.13.2",
-    "iridium-sbd": "cjntaylor/node-iridium-sbd",
+    "iridium-sbd": "cape-io/node-iridium-sbd",
     "lodash": "^4.17.10",
     "radians-degrees": "^1.0.0",
-    "signalk-plugin-state": "^1.0.0"
+    "signalk-plugin-state": "^1.2.2"
   },
   "devDependencies": {
     "eslint": "^4.19.1",

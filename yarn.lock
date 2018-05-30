@@ -1799,7 +1799,7 @@ invert-kv@^1.0.0:
 
 iridium-sbd@cape-io/node-iridium-sbd:
   version "0.1.0"
-  resolved "https://codeload.github.com/cape-io/node-iridium-sbd/tar.gz/c786211f9f3a2c46a8bacf41994bf6dcd1cf17ce"
+  resolved "https://codeload.github.com/cape-io/node-iridium-sbd/tar.gz/41099d4eba49c88707c8a36daf3f4275f5302eff"
   dependencies:
     async "*"
     lodash "^4.17.10"
@@ -3680,7 +3680,7 @@ signal-exit@^3.0.0, signal-exit@^3.0.2:
   version "3.0.2"
   resolved "https://registry.yarnpkg.com/signal-exit/-/signal-exit-3.0.2.tgz#b5fdc08f1287ea1178628e415e25132b73646c6d"
 
-signalk-plugin-state@^1.0.0:
+signalk-plugin-state@^1.2.2:
   version "1.2.2"
   resolved "https://registry.yarnpkg.com/signalk-plugin-state/-/signalk-plugin-state-1.2.2.tgz#6dc5ee71c834739ede5d10f72984e304850d2d13"
   dependencies:
