@@ -1798,8 +1798,8 @@ invert-kv@^1.0.0:
   resolved "https://registry.yarnpkg.com/invert-kv/-/invert-kv-1.0.0.tgz#104a8e4aaca6d3d8cd157a8ef8bfab2d7a3ffdb6"
 
 iridium-sbd@cape-io/node-iridium-sbd:
-  version "0.1.0"
-  resolved "https://codeload.github.com/cape-io/node-iridium-sbd/tar.gz/41099d4eba49c88707c8a36daf3f4275f5302eff"
+  version "0.1.1"
+  resolved "https://codeload.github.com/cape-io/node-iridium-sbd/tar.gz/a18d9c49bdca89a23a14df1fc900888d082f52da"
   dependencies:
     async "*"
     lodash "^4.17.10"
